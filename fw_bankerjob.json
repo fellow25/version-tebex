@@ -1,6 +1,6 @@
 {
 	"script": "fw_bankerjob",
-  	"version": "2.0.0",
+  	"version": "2.0.1",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Added static player methods to reduce bloat (ES Extended V.1.13.0)"
+	"msg": "# Add\n\t- Add/Remove access to the safe"
 }
