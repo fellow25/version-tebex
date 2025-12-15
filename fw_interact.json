@@ -1,6 +1,6 @@
 {
 	"script": "fw_interact",
-  "version": "1.0.4",
+  "version": "1.0.5",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# Add\n\t- Improve target"
+	"msg": "# Add\n\t- Add show documents option to player interact menu"
 }
